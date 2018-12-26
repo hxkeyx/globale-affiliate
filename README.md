@@ -1,0 +1,3 @@
+# globale-affiliate
+affiliate
+test
